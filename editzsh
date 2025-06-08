@@ -1,0 +1,3 @@
+editzsh () {
+	nvim ~/.zshrc
+}
